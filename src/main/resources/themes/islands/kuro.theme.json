@@ -1,0 +1,18 @@
+{
+  "name": "Kuro Islands",
+  "dark": true,
+  "author": "SitiSchu",
+  "parentTheme": "com.sitischu.theme.kuro",
+  "editorScheme": "/schemes/kuro.xml",
+
+  "ui": {
+    "Islands": 1,
+    "Island": {
+    },
+    "EditorTabs": {
+      "underlinedTabBackground": "mainColorDimmed",
+      "underlinedBorderColor": "mainColor",
+      "inactiveUnderlinedTabBorderColor": "disabled"
+    }
+  }
+}

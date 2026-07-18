@@ -1,0 +1,11 @@
+{
+  "name": "Kuro Islands Darker",
+  "dark": true,
+  "author": "SitiSchu",
+  "parentTheme": "com.sitischu.theme.kuroIslands",
+  "editorScheme": "/schemes/kuro_darker.xml",
+
+  "colors": {
+    "background": "#151515"
+  }
+}

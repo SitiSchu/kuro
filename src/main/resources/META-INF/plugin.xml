@@ -9,5 +9,7 @@
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider path="/themes/kuro.theme.json" id="com.sitischu.theme.kuro"/>
         <themeProvider path="/themes/kuro_darker.theme.json" id="com.sitischu.theme.kuroDarker"/>
+        <themeProvider path="/themes/islands/kuro.theme.json" id="com.sitischu.theme.kuroIslands"/>
+        <themeProvider path="/themes/islands/kuro_darker.theme.json" id="com.sitischu.theme.kuroIslandsDarker"/>
     </extensions>
 </idea-plugin>
