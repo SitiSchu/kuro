@@ -10,16 +10,22 @@
 <!-- Plugin description -->
 Simple opinionated dark theme with a custom editor scheme.
 - Accent Color is Fuchsia because of personal preference.
-- Colors are taken from material or the tomorrow Night scheme
+- Colors are taken from material or the Tomorrow Night scheme
 - Default Font is Fira Code
 
 There might be some unthemed parts that default to Darcula feel free to report them as issues on the [GitHub repository](https://github.com/mojurasu/kuro)
 <!-- Plugin description end -->
 
 ## Screenshots
-![Screenshot_1](media/screenshots/screenshot_1.png)
-![Screenshot_2](media/screenshots/screenshot_2.png)
+### Kuro
+![Base Theme](media/screenshots/kuro.png)
+### Kuro Darker
+![Darker Variant](media/screenshots/kuro_darker.png)
 
+### Kuro Islands
+![Base Theme](media/screenshots/kuro_islands.png)
+### Kuro Islands Darker
+![Darker Variant](media/screenshots/kuro_islands_darker.png)
 
 ---
 Plugin based on the [IntelliJ Platform Plugin Template][template].
