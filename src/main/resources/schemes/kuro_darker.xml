@@ -15,7 +15,8 @@
         <option name="DELETED_LINES_COLOR" value="f77669"/>
         <option name="DIFF_SEPARATORS_BACKGROUND" value="1c1c1c"/>
         <option name="DIFF_SEPARATORS_TOP_BORDER" value="171717"/>
-        <option name="DOCUMENTATION_COLOR" value="212121"/>
+        <option name="DOCUMENTATION_COLOR" value="151515"/>
+        <option name="LOOKUP_COLOR" value="151515"/>
         <option name="FILESTATUS_ADDED" value="c3e88d"/>
         <option name="FILESTATUS_COPIED" value="c3e88d"/>
         <option name="FILESTATUS_DELETED" value="808080"/>
