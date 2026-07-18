@@ -31,7 +31,8 @@
 
     "ActionButton": {
       "hoverBackground": "#202020",
-      "pressedBackground": "#e52a57"
+      "pressedBackground": "#303030",
+      "pressedBorderColor": "#af2a49"
     },
 
     "Button": {
@@ -174,6 +175,12 @@
       "disabledUnderlineColor": "#722435",
       "hoverColor": "#454545",
       "focusColor": "#454545"
+    },
+
+    "ToolWindow": {
+      "Button": {
+        "selectedBackground": "#e52a57"
+      }
     }
   },
 
