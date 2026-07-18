@@ -5,53 +5,7 @@
   "parentTheme": "com.sitischu.theme.kuro",
   "editorScheme": "/schemes/kuro_darker.xml",
 
-  "ui": {
-    "*": {
-      "background": "#151515",
-      "disabledBackground": "#151515",
-      "inactiveBackground": "#151515",
-      "borderColor": "#151515",
-      "disabledBorderColor": "#151515"
-    },
-
-    "ActionButton": {
-      "hoverBackground": "#151515",
-      "pressedBackground": "#e52a57"
-    },
-
-    "ComboBox": {
-      "nonEditableBackground": "#151515",
-
-      "ArrowButton": {
-        "nonEditableBackground": "#151515"
-      }
-    },
-
-    "EditorTabs": {
-      "underlinedTabBackground": "#151515"
-    },
-
-    "Popup": {
-      "Header.activeBackground": "#151515",
-      "Header.inactiveBackground": "#151515",
-
-      "Advertiser": {
-        "background": "#151515",
-        "borderColor": "#151515"
-      }
-    },
-
-    "ProgressBar": {
-      "trackColor": "#151515"
-    },
-
-    "StatusBar.borderColor": "#151515"
-  },
-
-  "icons": {
-    "ColorPalette": {
-      "Checkbox.Background.Default.Dark": "#151515",
-      "Checkbox.Background.Disabled.Dark": "#151515"
-    }
+  "colors": {
+    "background": "#151515"
   }
 }
