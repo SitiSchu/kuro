@@ -8,5 +8,6 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider path="/themes/kuro.theme.json" id="01d7f53b-3579-4386-a6d5-b89c6bfea0fa"/>
+        <themeProvider path="/themes/kuro_darker.theme.json" id="825e3870-acd4-4e77-9148-5753ad87ff97"/>
     </extensions>
 </idea-plugin>
