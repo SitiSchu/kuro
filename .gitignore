@@ -3,3 +3,5 @@
 .intellijPlatform
 .qodana
 build
+!.idea/.name
+!.idea/icon.svg
