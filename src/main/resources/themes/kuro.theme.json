@@ -5,6 +5,7 @@
   "editorScheme": "/schemes/kuro.xml",
 
   "colors": {
+    "transparent": "#00000000",
     "foreground": "#c9c9c9",
     "background": "#202020",
     "disabled": "#787878",
@@ -39,7 +40,7 @@
 
     "ActionButton": {
       "hoverBackground": "background",
-      "pressedBackground": "#303030",
+      "pressedBackground": "transparent",
       "pressedBorderColor": "#af2a49"
     },
 
